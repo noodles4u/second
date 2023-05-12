@@ -73,7 +73,8 @@ ___
 | [Homebrew cheatsheet](https://devhints.io/homebrew)| Terminal ||
 |[Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet/)| Markdown ||
 |[GIT commands](https://git-scm.com/docs)| GIT ||
-
+|[GIT Branches & 
+Merging](https://www.youtube.com/watch?v=Q1kHG842HoI)|GIT||
 
 
 
