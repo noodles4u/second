@@ -64,4 +64,4 @@
 4. Clean documentation
 5. Have fun!
 
-[![Another one](https://media.tenor.com/P3t-DfzWs1oAAAAC/ghost-in-the-shell.gif)](https://www.google.com/)]
+[![Another one](https://media.tenor.com/P3t-DfzWs1oAAAAC/ghost-in-the-shell.gif)](https://www.google.com/)
